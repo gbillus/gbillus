@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on software and asset development
 - 📫 How to reach me: on github for now
 - 😄 Pronouns: he/any
-- ⚡ Fun fact: In Civiliztion, the Mercilous Ghandi meme came from an overflow bug. In the modern age, everryones hostility is reduced. Since Ghandi already had
-- almost no hostility, it would subtract the number, it would go well below 0, overflow, and end up just below maximum hostility.
+- ⚡ Fun fact: 
 
 <!---
 gbillus/gbillus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
